@@ -1,0 +1,22 @@
+===============
+BONGO INTERVIEW
+===============
+
+Documentation:
+1. q1.py includes the solution for first print_depth function which will take a dictionary and prints only the keys with the depth level.
+2. q2.py includes the solution for a depth printer which can print depth with the key from a dictionary and can take a class object and interate over the class object with current depth level.
+3. q3.py includes the least common ancestor problem.
+
+Instructions to Execute the problem:
+1. clone the repo.
+2. run "python -m main" to see the results from the function with sample dataset. 
+3. run "python -m unittest" to see the testresults.
+
+
+Least Common Ancestor problem (q3):
+Both time complexity and space complexity for this problem will be O(n) since this solution only functions with single traverse within the full binary tree.
+
+
+Solution is provided by:
+Hasan Mahmud
+hmahmud01@gmail.com
